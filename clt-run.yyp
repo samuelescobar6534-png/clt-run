@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"obijetos","folderPath":"folders/obijetos.yy","name":"obijetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"rooms","folderPath":"folders/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -23,7 +23,7 @@
   },
   "name":"clt-run",
   "resources":[
-    {"id":{"name":"espaco1","path":"objects/espaco1/espaco1.yy",},},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"rm_pg1","path":"rooms/rm_pg1/rm_pg1.yy",},},
     {"id":{"name":"rm_pg3","path":"rooms/rm_pg3/rm_pg3.yy",},},
     {"id":{"name":"rm_pq2","path":"rooms/rm_pq2/rm_pq2.yy",},},
